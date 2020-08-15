@@ -1,3 +1,13 @@
+# **EVA5-Assignment-1**
+
+## Group Members:
+- Gaurav Makkar
+- Mohit Bhandari
+- Suman Debnath
+- Sriram Iyengar
+
+
+
 The goal of this exercise is to start familiarizing oneself with how CNN architectures can be optimized. Not every problem needs a hammer and especially the problem described in this exercise. This is a simple digit classification problem using the MNIST dataset.
 
 The "hammer" referred to in the previous paragrah is referring to the number of parameters that a model has to learn. If you are a teacher, with a finite attention span, the number of students that you can monitor and teach is equivalent to the number parameters in a model. If one increases the number of parameters in a model, the number of teachers needed will have to be increased. And that will increase the cost of your school (as each teacher needs to be paid). Therefore it is advisable to keep the number of parameters optimal.
